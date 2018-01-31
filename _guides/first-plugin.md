@@ -97,7 +97,7 @@ Rebuild the plugin by running `npm run build`. Open a Sketch document, select so
 
 ## Publishing your Extension
 
-Read about how to [Share a plugin](/guides/publishing-plugins/).
+Read about how to [Share a plugin](/guides/publishing/).
 
 ## Next steps
 
