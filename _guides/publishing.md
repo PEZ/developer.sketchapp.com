@@ -1,7 +1,7 @@
 ---
 title: Publishing Plugins
 summary: How to publish a plugin for the first time and how to publish updates
-permalink: /guides/publishing-plugins/
+permalink: /guides/publishing/
 order: 150
 ---
 
